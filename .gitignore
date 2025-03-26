@@ -1,0 +1,39 @@
+/.metadata/
+
+# IntelliJ IDEA Files #
+
+*.iml
+*.ipr
+*.iws
+*.idea
+
+# Directorios de compilación y salida
+out/
+build/
+
+# Archivos generados por Maven
+target/
+
+# Archivos de logs
+*.log
+
+# Archivos temporales
+*.swp
+*.tmp
+*.bak
+
+# Archivos específicos de Java
+*.class
+
+# Librerías locales
+lib/
+
+# Eclipse Project Files #
+.classpath
+.project
+.settings
+.vscode
+
+# Archivos creados por Docker
+docker-compose.override.yml
+*.dockerignore
