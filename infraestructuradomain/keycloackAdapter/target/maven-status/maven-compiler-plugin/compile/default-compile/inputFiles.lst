@@ -1,9 +1,0 @@
-/mnt/f/ws-update/paymentchainparent/infraestructuradomain/keycloackadapter/src/main/java/com/paymentchain/exception/StandarizedApiExceptionResponse.java
-/mnt/f/ws-update/paymentchainparent/infraestructuradomain/keycloackadapter/src/main/java/com/paymentchain/ApigatewayApplication.java
-/mnt/f/ws-update/paymentchainparent/infraestructuradomain/keycloackadapter/src/main/java/com/paymentchain/exception/BussinesRuleException.java
-/mnt/f/ws-update/paymentchainparent/infraestructuradomain/keycloackadapter/src/main/java/com/paymentchain/controler/IndexController.java
-/mnt/f/ws-update/paymentchainparent/infraestructuradomain/keycloackadapter/src/main/java/com/paymentchain/exception/ApiExceptionHandler.java
-/mnt/f/ws-update/paymentchainparent/infraestructuradomain/keycloackadapter/src/main/java/com/paymentchain/service/RestTemplateConfig.java
-/mnt/f/ws-update/paymentchainparent/infraestructuradomain/keycloackadapter/src/main/java/com/paymentchain/service/JwtService.java
-/mnt/f/ws-update/paymentchainparent/infraestructuradomain/keycloackadapter/src/main/java/com/paymentchain/service/KeycloakRestService.java
-/mnt/f/ws-update/paymentchainparent/infraestructuradomain/keycloackadapter/src/main/java/com/paymentchain/setups/WebClientConfig.java

@@ -1,6 +1,0 @@
-com/paymentchain/ApigatewayApplication.class
-com/paymentchain/setups/AuthenticationFiltering.class
-com/paymentchain/setups/AuthenticationFiltering$Config.class
-com/paymentchain/setups/GlobalPreFiltering.class
-com/paymentchain/setups/WebClientConfig.class
-com/paymentchain/setups/GlobalPostFiltering.class
